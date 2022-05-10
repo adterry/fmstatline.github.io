@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>FM Stat Line Data Repository</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	
+	<h1>Tournament Statistic Pages</h1>
+	
+	<ul>
+		<li>FM Streamer Showdown</li>
+		<li>FM Playoffs</li>
+		<li>Super League</li>
+		<li>Wasted Possession</li>
+		<li>FM Cups</li>
+	</ul>
+
+	</body>
+</html>
